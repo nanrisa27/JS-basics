@@ -1,0 +1,40 @@
+body{
+    background-color: aliceblue;
+}
+
+.container{
+    float: left;
+
+}
+
+.circle{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    border: 1px solid black;
+    margin-bottom: 10px;
+    background: green;
+}
+.circle2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+    border: 1px solid black;
+    margin-left: 10px;
+    background: green;
+}
+
+button{
+    width: 150px;
+    height: 100px;
+    border-radius: 30%;
+    background: red;
+    align-items: center;
+
+}
